@@ -1,5 +1,9 @@
-## 1812z's blog 加载中...
+## 1812z's blog in the world 🌎
 
- <script language="javascript">
-      window.location = "http://zz1812.moeblog.top";
+ The website is set up in China
+Please view https://1812z.site 
+
+<script language="javascript">
+ window.location = "
+https://1812z.site"; 
 </script>
