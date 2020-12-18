@@ -4,6 +4,5 @@
 Please view https://1812z.site 
 
 <script language="javascript">
- window.location = "
-https://1812z.site"; 
+ window.location = "https://1812z.site"; 
 </script>
